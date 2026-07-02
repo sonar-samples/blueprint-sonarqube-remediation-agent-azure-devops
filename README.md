@@ -1,6 +1,6 @@
 # Fix backlog issues with the SonarQube Remediation Agent on Azure DevOps
 
-> Last Verified: July 2026
+> Last Verified: June 2026
 
 ## TL;DR overview
 
