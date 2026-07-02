@@ -1,5 +1,7 @@
 # Fix backlog issues with the SonarQube Remediation Agent on Azure DevOps
 
+> Last Verified: July 2026
+
 ## TL;DR overview
 
 - The SonarQube Remediation Agent on Azure DevOps converts main-branch issue backlog cleanup in SonarQube Cloud into a review-and-merge task by generating validated fix pull requests in Azure Repos.  
